@@ -1,6 +1,6 @@
 # Hola, soy Noe 👋
 
-Soy un **Ingeniero en Tecnologías de la Información** con experiencia en **desarrollo Full-Stack** y **Ciencia de Datos** Me apasiona resolver problemas complejos mediante el uso de la tecnología y mejorar la experiencia de los usuarios finales.
+Soy un **Ingeniero en Tecnologías de la Información** con experiencia en **desarrollo Full-Stack** y **Ciencia de Datos**. Me apasiona resolver problemas complejos mediante el uso de la tecnología y mejorar la experiencia de los usuarios finales.
 Actualmente estoy incursionando en el mundo de los proyectos open source, por lo que estaré muchisimo más activo por aquí.
 
 ## 🔧 Tecnologías y Herramientas
