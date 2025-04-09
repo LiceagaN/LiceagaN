@@ -11,8 +11,11 @@ Actualmente estoy incursionando en el mundo de los proyectos open source, por lo
 - **DevOps**: Docker, Git, GitHub Actions, AWS
 - **Lenguajes de Programación**: Pyhton, C, C++, GO, Java
 - **Otros**: REST API, GraphQL, Firebase, Jenkins
+- 
 ## 👨‍🏭Empleo Actual
+
 Actualmente estoy trabajando en BMW en el equipo de digitalización en proyectos relacionados a mejorar procesos relacionados a la logistica de la planeación de la distribución vehícular en planta San Luis Potosí, utilizando tecnicas de ML y tecnologías en la nube(AWS). Mi objetivo principal siempre es crear soluciones duraderas y eficientes para el cliente.
+
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiceagaN&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
