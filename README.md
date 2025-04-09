@@ -30,8 +30,8 @@ Aquí tienes algunos de mis proyectos más recientes y relevantes:
 
 ## 📫 Cómo contactar conmigo
 
-- **LinkedIn**: [Enlace a tu LinkedIn](www.linkedin.com/in/noe-liceaga-051b6523a)
-- **Correo electrónico**: [tuemail@example.com](mailto:nliceagar@gmail.com)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/noe-liceaga-051b6523a)
+- **Correo electrónico**: [nliceagar@gmail.com](mailto:nliceagar@gmail.com)
 
 ---
 
