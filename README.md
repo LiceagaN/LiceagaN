@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**LiceagaN/LiceagaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Ingeniero en Tecnologías de la Información** con experiencia en **desarrollo Full-Stack** y **Ciencia de Datos** Me apasiona resolver problemas complejos mediante el uso de la tecnología y mejorar la experiencia de los usuarios finales.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Vue.js, Vuetify, React, HTML, CSS, JavaScript
+- **Backend**: Django, Node.js, Express
+- **Bases de Datos**: PostgreSQL, MySQL, MongoDB
+- **DevOps**: Docker, Git, GitHub Actions, AWS
+- **Lenguajes de Programación**: Pyhton, C, C++, GO, Java
+- **Otros**: REST API, GraphQL, Firebase, Jenkins
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiceagaN&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 🚀 Proyectos Destacados
+
+Aquí tienes algunos de mis proyectos más recientes y relevantes:
+
+1. **[Proyecto 1: Nombre del Proyecto](enlace-a-tu-repositorio)**
+   - Descripción corta del proyecto.
+   - Tecnologías utilizadas: Vue.js, Django, etc.
+   - [Enlace al Demo (si tiene)](enlace-del-demo).
+
+2. **[Proyecto 2: Nombre del Proyecto](enlace-a-tu-repositorio)**
+   - Descripción corta del proyecto.
+   - Tecnologías utilizadas: Node.js, Express, etc.
+   - [Enlace al Demo (si tiene)](enlace-del-demo).
+
+3. **[Proyecto 3: Nombre del Proyecto](enlace-a-tu-repositorio)**
+   - Descripción corta del proyecto.
+   - Tecnologías utilizadas: React, MongoDB, etc.
+   - [Enlace al Demo (si tiene)](enlace-del-demo).
+
+## 📫 Cómo contactar conmigo
+
+- **LinkedIn**: [Enlace a tu LinkedIn](www.linkedin.com/in/noe-liceaga-051b6523a)
+- **Correo electrónico**: [tuemail@example.com](mailto:nliceagar@gmail.com)
+
+---
+
+**¡Gracias por visitar mi perfil!** 😊
